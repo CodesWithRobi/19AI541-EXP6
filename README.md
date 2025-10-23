@@ -25,7 +25,7 @@ Step 1. Install Guest Additions on the Guest machine.
 a. Open Windows Explorer
 b. Double click at the "CD Drive (X:) VirtualBox Guest additions" to explore its contents.
 		  
-![image](https://github.com/user-attachments/assets/d3dbb341-38c1-4f3e-92f7-0cfe1084e679)
+<img src="https://github.com/user-attachments/assets/d3dbb341-38c1-4f3e-92f7-0cfe1084e679" height="600">
 
 C.Right click at "VBoxWindowsAdditions" application and from the pop-up menu, choose "Run as administrator".
  
